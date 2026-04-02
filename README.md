@@ -1,7 +1,7 @@
 # Scalable Data Architecture: From OLTP to Distributed Systems
 
 Course: ISM4545 / ISM6562  
-Project: Midterm – Part 4 (Citus Evaluation)  
+Project: Midterm 
 Team: The Leftside Undergrads  
 Members: Aisha Nomani, Sai Han Shan Pha, Mohammed Aljumai, Aurelia Vo, An Chu  
 
